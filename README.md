@@ -7,6 +7,5 @@ Ejecutar este comando
 
 ```
 npm instal
-
 ```
 
